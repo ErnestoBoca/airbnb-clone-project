@@ -13,7 +13,7 @@ The **Airbnb Clone Project** is a full-stack web application designed to replica
 - Document software systems effectively.
 - Gain experience working in distributed development teams.
 
-### 🧰 Tech Stack
+### 🧰 Technology Stack
 
 - **Backend Framework:** Django
 - **Database:** MySQL
