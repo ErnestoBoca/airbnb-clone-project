@@ -22,7 +22,26 @@ The **Airbnb Clone Project** is a full-stack web application designed to replica
 - **CI/CD Tools:** GitHub Actions
 - **Version Control:** Git & GitHub
 
----
+### 🐍 Django
+A high-level Python web framework used to build the backend logic of the application. It handles routing, request/response processing, and integrates with the database. Django also simplifies user authentication, admin interfaces, and ORM-based data access.
+
+### 🐬 MySQL
+A relational database management system used to store and manage structured data, such as user profiles, property listings, bookings, and reviews. It works seamlessly with Django’s ORM for efficient data modeling and querying.
+
+### 🔗 GraphQL
+A query language for APIs that allows clients to request only the data they need. It improves performance and flexibility compared to traditional REST APIs. In this project, it's used to enhance API interactions between frontend and backend.
+
+### 🐳 Docker
+A containerization tool that packages the application and its dependencies into isolated units called containers. It ensures consistent environments across development, testing, and deployment stages.
+
+### 🔄 GitHub Actions
+A CI/CD tool that automates testing, building, and deploying the application whenever changes are pushed to the repository. It helps maintain code quality and speeds up the development workflow.
+
+### 🧪 Pytest (or Django's test framework)
+Used for writing and running unit and integration tests to ensure that features behave as expected and regressions are caught early during development.
+
+### 🌐 Git & GitHub
+Version control tools used for managing source code, tracking changes, and collaborating with team members. GitHub also hosts the project repository and handles issue tracking and code reviews.
 
 ## 👥 Team Roles
 
